@@ -2,7 +2,7 @@
 ![Rules](https://media.discordapp.net/attachments/858349899401658398/1296049271187046443/image.png?ex=6710df71&is=670f8df1&hm=09168a3e9fb587b22077712282931f09f3ee8f075a0f4a21bc833f4b53a79abc&=&format=webp&quality=lossless&width=1407&height=593)
 ## Level 0
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295136534969974915/image.png?ex=670d8d64&is=670c3be4&hm=8387b4863059ab8ff91938d2a8d410eb7f8b1a4ea3283145f70e75aad66d6c32&=&format=webp&quality=lossless&width=1440&height=308)
+![Question](/home/arshabrata/MIST_Arshabrata/images/images.png)
 ### Solution : 
 ```
 ssh bandit0@bandit.labs.overthewire.org -p 2220
