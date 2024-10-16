@@ -1,5 +1,5 @@
 # Bandit Over the Wire
-![Rules](https://media.discordapp.net/attachments/858349899401658398/1296049271187046443/image.png?ex=6710df71&is=670f8df1&hm=09168a3e9fb587b22077712282931f09f3ee8f075a0f4a21bc833f4b53a79abc&=&format=webp&quality=lossless&width=1407&height=593)
+![s16152510162024](https://a.okmd.dev/md/670f994861485.png)
 ## Level 0
 ### Problem : 
 ![s15564110162024](https://a.okmd.dev/md/670f94e3d5a79.png)
@@ -17,7 +17,7 @@ bandit0
 
 ## Level 0 -> Level 1
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295137664499974194/image.png?ex=670d8e71&is=670c3cf1&hm=af7b0759fcb958082289e13df9d7b95b8d2ed867af974005a7ebcebdc07c7a5e&=&format=webp&quality=lossless&width=1440&height=392)
+![s16302110162024](https://a.okmd.dev/md/670f9cc780620.png)
 ### Solution : 
 ```
 ls
