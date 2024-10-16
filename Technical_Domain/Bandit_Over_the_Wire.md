@@ -2,7 +2,7 @@
 ![Rules](https://media.discordapp.net/attachments/858349899401658398/1296049271187046443/image.png?ex=6710df71&is=670f8df1&hm=09168a3e9fb587b22077712282931f09f3ee8f075a0f4a21bc833f4b53a79abc&=&format=webp&quality=lossless&width=1407&height=593)
 ## Level 0
 ### Problem : 
-![Question](/home/arshabrata/MIST_Arshabrata/images/images.png)
+![s15564110162024](https://a.okmd.dev/md/670f94e3d5a79.png)
 ### Solution : 
 ```
 ssh bandit0@bandit.labs.overthewire.org -p 2220
@@ -34,7 +34,7 @@ ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
 ## Level 1 -> Level 2
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295138799252279337/image.png?ex=670d8f80&is=670c3e00&hm=83fa710859ecd019ac59e35d9ae4e5d942271661691e8c5ee5c6bc616093f033&=&format=webp&quality=lossless&width=1440&height=360)
+![s15582010162024](https://a.okmd.dev/md/670f954702bcc.png)
 ### Solution : 
 ```
 ssh bandit1@bandit.labs.overthewire.org -p 2220
@@ -52,7 +52,7 @@ This gives us the password.
 
 ## Level 2 -> Level 3
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295140322732412968/image.png?ex=670d90eb&is=670c3f6b&hm=3fd75517e1704e7154a535757d469cea73b3f4b3a3dfc1b7edb035c2f7b41f0b&=&format=webp&quality=lossless&width=1440&height=352)
+![s15584510162024](https://a.okmd.dev/md/670f955f325f7.png)
 ### Solution : 
 ```
 ssh bandit2@bandit.labs.overthewire.org -p 2220
@@ -70,7 +70,7 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## Level 3 -> Level 4
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295141143159504948/image.png?ex=670d91af&is=670c402f&hm=43aa18baf274c4cb6859ccb06f46590df6039a0f65f842e28e65deb65ebb98d1&=&format=webp&quality=lossless&width=1440&height=208)
+![s15590410162024](https://a.okmd.dev/md/670f95727c6e6.png)
 ### Solution : 
 ```
 ssh bandit3@bandit.labs.overthewire.org -p 2220
@@ -91,7 +91,7 @@ This gives us the password as we read the hidden file.
 
 ## Level 4 -> Level 5
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295142105622122567/image.png?ex=670d9294&is=670c4114&hm=c6cf595560ffb69206ef3cb02881de9b64e4c571e1587d335e55ebc9d856070a&=&format=webp&quality=lossless&width=1440&height=225)
+![s15592210162024](https://a.okmd.dev/md/670f95842b11f.png)
 ### Solution : 
 ```
 ssh bandit4@bandit.labs.overthewire.org -p 2220
@@ -121,7 +121,7 @@ We get the password on reading the content of -file07.
 
 ## Level 5 -> Level 6
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295143846996480001/image.png?ex=670d9433&is=670c42b3&hm=2ce754a4553e351fbaf673fa69fd1b1a6c6598772300baccd286c8efa1751362&=&format=webp&quality=lossless&width=1440&height=316)
+![s15595110162024](https://a.okmd.dev/md/670f95a125ff2.png)
 ### Solution : 
 ```
 ssh bandit5@bandit.labs.overthewire.org -p 2220
@@ -153,7 +153,7 @@ HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 ## Level 6 -> Level 7
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295145753039343649/image.png?ex=670d95fa&is=670c447a&hm=7b3b71bc373d67c120e1ab710de8ef49ed28651a71a0b2c1d77f18872c3c0e6c&=&format=webp&quality=lossless&width=1440&height=312)
+![s16000710162024](https://a.okmd.dev/md/670f95b1756fb.png)
 ### Solution : 
 ```
 ssh bandit6@bandit.labs.overthewire.org -p 2220
@@ -179,7 +179,7 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ## Level 7 -> Level 8
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295313417468645407/image.png?ex=670e3220&is=670ce0a0&hm=1b5c9c4c88f734962e0e3ab727ac49a9c68fc776716297af14cc4a0b10843351&=&format=webp&quality=lossless&width=1440&height=230)
+![s16002710162024](https://a.okmd.dev/md/670f95c5b7600.png)
 ### Solution : 
 ```
 ssh bandit7@bandit.labs.overthewire.org -p 2220
@@ -197,7 +197,7 @@ dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 ## Level 8 -> Level 9
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295314466937770025/image.png?ex=670e331a&is=670ce19a&hm=82b8d5e00d3a77fa93024778ac97b6abdfdb6ef71389433a11a40da9ce419167&=&format=webp&quality=lossless&width=1440&height=320)
+![s16005110162024](https://a.okmd.dev/md/670f95ddb5a22.png)
 ### Solution : 
 ```
 ssh bandit8@bandit.labs.overthewire.org -p 2220
@@ -216,7 +216,7 @@ This string is the password.
 
 ## Level 9 -> Level 10
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295316866562261072/image.png?ex=670e3556&is=670ce3d6&hm=398c9b54e67b013aa29bbc7aa5dfeccee6b5699be6d276ac37209c62b9cef74f&=&format=webp&quality=lossless&width=1440&height=212)
+![s16010710162024](https://a.okmd.dev/md/670f95ed846f4.png)
 ### Solution : 
 ```
 ssh bandit9@bandit.labs.overthewire.org -p 2220
@@ -236,7 +236,7 @@ FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 ## Level 10 -> Level 11
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295318735997108306/image.png?ex=670e3714&is=670ce594&hm=6daea837380efded9bec6b4e387700807b13ad1ef8cd86c5ac4f686a97cc764c&=&format=webp&quality=lossless&width=1440&height=317)
+![s16012410162024](https://a.okmd.dev/md/670f95fea9bb3.png)
 ### Solution : 
 ```
 ssh bandit10@bandit.labs.overthewire.org -p 2220
@@ -253,7 +253,7 @@ dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ## Level 11 -> Level 12
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295320019529371739/Screenshot_2024-10-14_150856.png?ex=670e3846&is=670ce6c6&hm=9b5d2540e01c2f63d38f9734232c2d334664a683c90536b4be3f8a42608ca7cd&=&format=webp&quality=lossless&width=1440&height=311)
+![s16014110162024](https://a.okmd.dev/md/670f960f1f3aa.png)
 ### Solution : 
 ```
 ssh bandit11@bandit.labs.overthewire.org -p 2220
@@ -265,7 +265,7 @@ cat data.txt
 We read the contents of the file which gives us the ROT13 substitution cypher. We must decode this to get the password.  
 The content of the file : Gur cnffjbeq vf 7k16JArUVv5LxVuJfsSVdbbtaHGlw9D4  
 We use the following chart for decoding :  
-![ROT13 Chart](https://media.discordapp.net/attachments/858349899401658398/1295322044438679582/ROT13.png?ex=670e3a29&is=670ce8a9&hm=1b869933f4afedc778138863a5cf26670e79adba90a8dabdd6cf47822bb8d474&=&format=webp&quality=lossless&width=750&height=182)   
+![s16023610162024](https://a.okmd.dev/md/670f9645bd6d6.png)  
 Decoding gives us the following message : The password is 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 ### Password : 
 ```
@@ -274,7 +274,7 @@ Decoding gives us the following message : The password is 7x16WNeHIi5YkIhWsfFIqo
 
 ## Level 12 -> Level 13
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295323262502567998/image.png?ex=670e3b4b&is=670ce9cb&hm=dbf6a31743c2c3591e96dd52b344dbdbe97d16003812c8eaba2827b1e5aa33c3&=&format=webp&quality=lossless&width=1440&height=362)
+![s16021410162024](https://a.okmd.dev/md/670f9630e496f.png)
 ### Solution : 
 ```
 ssh bandit12@bandit.labs.overthewire.org -p 2220
@@ -399,7 +399,7 @@ FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
 ## Level 13 -> Level 14
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295386758653018172/image.png?ex=670e766e&is=670d24ee&hm=54f3fcc07350313facba3f225c37174a8479728e2dc065970553880749e7316e&=&format=webp&quality=lossless&width=1440&height=352)
+![s16032410162024](https://a.okmd.dev/md/670f9677269c0.png)
 ### Solution : 
 ```
 ssh bandit13@bandit.labs.overthewire.org -p 2220
@@ -425,7 +425,7 @@ MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 ## Level 14 -> Level 15
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295389368860676117/image.png?ex=670e78dc&is=670d275c&hm=4910e15a7a33915e93b40a33a7f417512034252a685ead5cd602be31ffa907f9&=&format=webp&quality=lossless&width=1440&height=468)
+![s16034610162024](https://a.okmd.dev/md/670f968c68a44.png)
 ### Solution : 
 ```
 ssh bandit14@bandit.labs.overthewire.org -p 2220
@@ -446,7 +446,7 @@ We pipe the standard output of the echo command into the standard input of the n
 
 ## Level 15 -> Level 16
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295392245532594268/image.png?ex=670e7b8a&is=670d2a0a&hm=14f79386fca32549bc99baa15a5a002919b7462e516cb5a1cc994813d4686ffe&=&format=webp&quality=lossless&width=1440&height=396)
+![s16040310162024](https://a.okmd.dev/md/670f969d31418.png)
 ### Solution : 
 ```
 ssh bandit16@bandit.labs.overthewire.org -p 2220
@@ -468,7 +468,7 @@ kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
 ## Level 16 -> Level 17
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1295402113706229864/image.png?ex=670e84bb&is=670d333b&hm=faa55fec2652ec8cdf96df0955210dae8e7ed277f78d5c7efbadc24f3db8977c&=&format=webp&quality=lossless&width=1440&height=406)
+![s16042010162024](https://a.okmd.dev/md/670f96aee40d6.png)
 ### Solution : 
 ```
 ssh bandit16@bandit.labs.overthewire.org -p 2220
@@ -530,7 +530,7 @@ vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
 
 ## Level 17 -> Level 18
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1296044674167078912/image.png?ex=6710db29&is=670f89a9&hm=65d78671275af7ae007261f2cc5edbbe6a5a352a283e9d60a0c7b654c409157d&=&format=webp&quality=lossless&width=1440&height=285)
+![s16044210162024](https://a.okmd.dev/md/670f96c4bee3c.png)
 ### Solution : 
 ```
 ssh -i bandit17key bandit17@bandit.labs.overthewire.org -p 2220
@@ -550,7 +550,7 @@ x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 
 ## Level 18 -> Level 19
 ### Problem : 
-![Question](https://media.discordapp.net/attachments/858349899401658398/1296046773068107806/image.png?ex=6710dd1e&is=670f8b9e&hm=acdb82181b124d417709893a7cacb89e9658cff3aa2345a712e66617dfae087a&=&format=webp&quality=lossless&width=1440&height=225)
+![s16050510162024](https://a.okmd.dev/md/670f96db03650.png)
 ### Solution : 
 ```
 ssh bandit18@bandit.labs.overthewire.org -p 2220 'cat readme'
