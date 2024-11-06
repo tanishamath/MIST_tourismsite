@@ -1,0 +1,62 @@
+/* Custom purple background header */
+.header {
+    background-color: #6f42c1;
+    height: 150px;
+    color: white;
+}
+
+/* Navbar customization */
+.navbar-custom {
+    background-color: transparent;
+    padding: 0;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+.nav-item {
+    flex: 1;
+    text-align: center;
+}
+
+/* Hover effect on nav links */
+.nav-link {
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: #5a3598;
+    color: white;
+}
+
+/* Contact and Author Card Styling */
+.contact-card, .author-card {
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.contact-card h5, .author-card h5 {
+    font-weight: bold;
+}
+
+/* Icon styling */
+.contact-card i {
+    margin-right: 8px;
+    color: gray;
+}
+
+/* Image styling for circular images in author section */
+.author-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    padding:10px
+}

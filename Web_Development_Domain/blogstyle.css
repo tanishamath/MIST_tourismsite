@@ -1,0 +1,63 @@
+/* Custom purple background header */
+.header {
+    background-color: #6f42c1;
+    height: 150px;
+    color: white;
+}
+
+/* Navbar customization */
+.navbar-custom {
+    background-color: transparent;
+    padding: 0;
+}
+
+/* Center and evenly space headings */
+.navbar-nav {
+    width: 100%;
+}
+
+.nav-item {
+    flex: 1;
+    text-align: center;
+}
+
+/* Hover effect on nav links */
+.nav-link {
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: #5a3598;
+    color: white;
+}
+
+/* Image box styling */
+.image-box {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    transition: filter 0.3s ease;
+}
+
+.image-box img {
+    width: 100%;
+    height: 250px;
+}
+
+.image-box:hover img {
+    filter: brightness(75%);
+}
+
+/* Text overlay below image */
+.image-text {
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
